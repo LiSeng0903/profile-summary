@@ -9,7 +9,7 @@ Action already setup In this template, you just need click `use this template` b
 ```To create your profile README you need to name the repo as your username```
 
 | :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :---------------------------------------------------------------------------------------------------------------- |
+| :-------: | :---------------------------------------------------------------------------------------------------------- |
  -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiSeng0903&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiSeng0903&theme=vue)
