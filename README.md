@@ -14,5 +14,6 @@ Action already setup In this template, you just need click `use this template` b
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiSeng0903&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiSeng0903&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiSeng0903&theme=vue)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiSeng0903&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LiSeng0903&theme=vue&utcOffset=8)
 [More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
